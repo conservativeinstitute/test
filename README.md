@@ -32,6 +32,7 @@
 
 - This is a simple, functional test. UI appearance is not considered
 - PLEASE reach out with questions, that is a critical part of working on our team
+- Let me know when the task is complete and we will schedule a call to review
 - Have fun with it!
 
 ### Resources:
