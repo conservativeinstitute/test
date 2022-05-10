@@ -10,6 +10,7 @@
 
 ### Required tasks:
 
+- Clone this Github repo into a Homestead (or similar) local environment
 - Create a Model and Migration for Brands with the following fields:
   - Name (required)
   - Description (optional)
